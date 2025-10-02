@@ -1,0 +1,3 @@
+# Default gems to use with mise
+bundler
+docker-sync
