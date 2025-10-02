@@ -2,7 +2,7 @@
 tap "autozimu/formulas"
 
 # formulae
-
+brew "1password-cli"
 brew "git"
 brew "automake"
 brew "awscli"
@@ -38,6 +38,7 @@ brew "zsh"
 brew "autozimu/formulas/unison-fsmonitor"
 
 # casks
+cask "1password"
 cask "docker-desktop"
 cask "firefox"
 cask "google-chrome"
