@@ -1,5 +1,6 @@
 # taps
 tap "autozimu/formulas"
+tap "domt4/autoupdate"
 
 # formulae
 brew "git"
@@ -34,7 +35,7 @@ brew "pinentry-mac"
 brew "pkgconf"
 brew "poetry"
 brew "python@3.13"
-brew "rbenv"
+brew "ruby"
 brew "re2c"
 brew "unison"
 brew "vfox"
